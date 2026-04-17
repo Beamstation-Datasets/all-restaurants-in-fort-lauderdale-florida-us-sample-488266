@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8d236468-e1b9-4aa0-8c2f-3cead526c70d",
+  "export_job_id": "b8734461-52c2-415b-b50a-4f3724a28f3e",
   "id_short": 488266,
-  "published_at": "2026-04-13T19:04:11Z",
+  "published_at": "2026-04-17T07:47:23Z",
   "repo_name": "all-restaurants-in-fort-lauderdale-florida-us-sample-488266",
   "sample_asset_name": "beamstation_488266_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/488266/beamstation_488266_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 25,
-  "sample_sha256": "cda7e322ce11a5a542b1ea728c11cef57460a15fa9bc96dbb52cd87e4a4b0b64",
-  "sample_size_bytes": 124499,
-  "total_records": 685
+  "sample_records": 95,
+  "sample_sha256": "bc8cd6946dc5906c6f280bd79ab8fe291d911bc6e70c46438f70c4feb0d4c23d",
+  "sample_size_bytes": 371166,
+  "total_records": 955
 }
